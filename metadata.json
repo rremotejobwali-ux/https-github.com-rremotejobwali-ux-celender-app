@@ -1,0 +1,5 @@
+{
+  "name": " Calendar app",
+  "description": "A modern, intelligent calendar application featuring natural language event scheduling powered by Gemini, drag-and-drop ready interface, and sleek responsive design.",
+  "requestFramePermissions": []
+}
